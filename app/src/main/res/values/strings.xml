@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="response">response</string>
+    <string name="results">results</string>
+    <string name="webTitle">webTitle</string>
+    <string name="author">author</string>
+    <string name="tags">tags</string>
+    <string name="title">title</string>
+    <string name="webPublicationDate">webPublicationDate</string>
+    <string name="sectionName">sectionName</string>
+    <string name="webUrl">webUrl</string>
+    <string name="fields">fields</string>
+    <string name="thumbnail">thumbnail</string>
+    <string name="parsingError">Json parsing error: </string>
+    <string name="notGetJson">Couldn\'t get json from server.</string>
+    <string name="noNews">No news found.
+        Please come back later.</string>
+    <string name="noInternet">No internet connection found.
+        Please check your internet connection and restart the app. </string>
+    <string name="warning">18dp black vector icon</string>
+    <string name="football">Football</string>
+    <string name="money">Money</string>
+    <string name="sport">Sport</string>
+    <string name="politics">Politics</string>
+    <string name="opinion">Opinion</string>
+    <string name="usNews">US news</string>
+    <string name="environment">Environment</string>
+    <string name="worldNews">World news</string>
+    <string name="books">Books</string>
+    <string name="business">Business</string>
+    <string name="lifeAndStyle">Life and style</string>
+    <string name="artAndDesign">Art and design</string>
+    <string name="membership">Membership</string>
+    <string name="film">Film</string>
+    <string name="fashion">Fashion</string>
+    <string name="travel">Travel</string>
+    <string name="music">Music</string>
+    <string name="televisionAndRadio">Television &amp; radio</string>
+    <string name="culture">Culture</string>
+    <string name="ukNews">UK news</string>
+    <string name="science">Science</string>
+    <string name="technology">Technology</string>
+    <string name="basketball">Basketball</string>
+    <string name="society">Society</string>
+    <string name="writtenBy">Written by: </string>
+    <string name="australianNews">Australia news</string>
+    <string name="education">Education</string>
+    <string name="stage">Stage</string>
+    <string name="media">Media</string>
+
+
+
+
+</resources>

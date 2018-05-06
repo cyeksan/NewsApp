@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="standardPadding">16dp</dimen>
+    <dimen name="halfPadding">8dp</dimen>
+    <dimen name="warningDimen">48dp</dimen>
+    <dimen name="barDimen">48dp</dimen>
+    <dimen name="newsImageDimen">230dp</dimen>
+    <dimen name="titleSize">20sp</dimen>
+    <dimen name="authorSize">14sp</dimen>
+    <dimen name="dateSize">12sp</dimen>
+    <dimen name="sectionSize">16sp</dimen>
+    <dimen name="cardMargin">5dp</dimen>
+    <dimen name="cardRadius">2dp</dimen>
+    <dimen name="cardPadding">10dp</dimen>
+</resources>
